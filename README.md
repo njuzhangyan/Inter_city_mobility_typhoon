@@ -22,7 +22,7 @@ Besides, the daily weather information from CMA, daily search index of key-word 
 
 * `typhoon_Bebinca_path.csv`: Hourly movement information of typhoon Bebinca with date, time, direction, typhoon level, wind speed, longitude and latitude of typhoon center point.
 
-* `search_index.csv`: Daily search index of 'typhoon' from 41 cities with date, city, and equipments from Baidu platform. (Search Index used in this study is the search volume data published by Baidu, the world's largest Chinese search engine, which allows users to customize search keywords and search source cities.)
+* `search_index.csv`: Daily search index of 'typhoon' from 41 cities with date, city, and equipments from Baidu platform. (Search Index used in this study is the search volume data published by Baidu https://index.baidu.com/v2/index.html#/ , the world's largest Chinese search engine, which allows users to customize search keywords and search source cities.)
 
 * `weather.csv`: Daily weather with atmospheric condition, rainfall, wind speed, and temperature of 41 cities.
 
