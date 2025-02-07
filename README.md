@@ -5,7 +5,7 @@ This is a dataset for inter-city human mobility research of the 41 cities in YRD
 Author: Yan Zhang (yan_zhang@smail.nju.edu.cn), Yuwen Lu (luyw@nju.edu.cn)
 
 ## Data Description
-### Inter_city_typhoon
+### Inter_city_mobility_typhoon
 The inter-city mobility data used in this study is drawn from the Amap platform (https://report.amap.com/migrate/page.do), which provides daily travel index of will and real at city level based on its Location Based Services (LBS). Within the YRD, China, a total of 41 cities and 1640 links are covered from 8 September to 18 September 2024. Additionally, the data of 2018 to 2023 are also collected for comparision research.
 
 Besides, the daily weather information from CMA, daily search index of key-word 'typhoon' from Baidu, hourly typhoon Bebinca path, and yearly publicly available social-economical data from government are also collected. All the datasets are summarized in a table with city name as row name for regression analysis.
